@@ -13,3 +13,7 @@ Download the mod from the `Releases` section and place the patch file in the `Oc
 一个《八方旅人II》/《歧路旅人II》的mod，允许你在地图上任何地点使用快速传送，而不仅仅是在城镇。
 
 下载 `Release` 中的补丁文件，将其放入游戏目录下的 `Octopath_Traveler2\Content\Paks` 文件夹中。
+
+## Thanks
+
+[【八方旅人/八方旅人2】自制mod工具分享/教程简单易学攻略](https://www.bilibili.com/video/BV1U14y1d7wT/)
